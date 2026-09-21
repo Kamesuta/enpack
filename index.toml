@@ -1,0 +1,11 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "35842c70979dc4843ab4ac914fc801f75eb8069a5ededa47490a8fb8c637a0b2"
+metafile = true
+
+[[files]]
+file = "mods/strata.pw.toml"
+hash = "9f7f104c0cc1e27b3f01797e5de15d7f0b187c6ed9e08975c36f57081d65e466"
+metafile = true
